@@ -11,8 +11,11 @@ from app.core.config import (
     CHROMA_DIR,
 )
 from app.embeddings.model import get_embedding_model
+from functools import lru_cache
 
 
+
+@lru_cache(maxsize=1)
 def get_vector_store() -> Chroma:
     """Initialize a persistent ChromaDB vector store."""
 
