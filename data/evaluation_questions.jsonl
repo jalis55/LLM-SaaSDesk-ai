@@ -1,0 +1,16 @@
+{"question": "What does Free cost and how many active projects does it allow?", "expected_answer": "$0/month and 2 active projects.", "source": "pricing.md"}
+{"question": "How much is annual Pro for 5 members?", "expected_answer": "$600 per year before tax (5 x $120).", "source": "pricing.md"}
+{"question": "Can I get a refund after cancelling a monthly plan?", "expected_answer": "Cancellation does not automatically create a refund; monthly charges generally are not refundable except duplicate charges or confirmed billing errors reported within 30 days.", "source": "refund_policy.md"}
+{"question": "How long is the refund window for a first annual purchase?", "expected_answer": "14 calendar days from initial charge.", "source": "refund_policy.md"}
+{"question": "Who can connect Slack?", "expected_answer": "Owner or Admin on Pro or Business.", "source": "integrations.md"}
+{"question": "Can guests create projects?", "expected_answer": "No; guests can only view and comment on explicitly shared projects.", "source": "team_management.md"}
+{"question": "Is audit-log export available on Pro?", "expected_answer": "No; Business only.", "source": "features.md"}
+{"question": "What happens after 10 days of failed payment?", "expected_answer": "Paid-only features become read-only.", "source": "billing_policy.md"}
+{"question": "What is the Business API rate limit?", "expected_answer": "300 requests per minute per workspace.", "source": "api_documentation.md"}
+{"question": "How long can a deleted workspace be recovered?", "expected_answer": "7 days after deletion request.", "source": "account_management.md"}
+{"question": "Can FlowDesk send SMS reminders?", "expected_answer": "No.", "source": "features.md"}
+{"question": "Does FlowDesk support offline mode?", "expected_answer": "No.", "source": "features.md"}
+{"question": "What is the CEO name?", "expected_answer": "Not specified in the knowledge base.", "source": "unanswerable"}
+{"question": "Is FlowDesk SOC 2 certified?", "expected_answer": "No such certification is claimed.", "source": "security_privacy.md"}
+{"question": "When will the next product release happen?", "expected_answer": "Not specified in the knowledge base.", "source": "unanswerable"}
+{"question": "What is the Enterprise plan price?", "expected_answer": "No Enterprise plan is documented; only Free, Pro, and Business.", "source": "pricing.md"}

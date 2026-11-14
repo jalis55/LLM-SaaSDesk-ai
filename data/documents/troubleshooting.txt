@@ -1,0 +1,28 @@
+FICTIONAL FLOWDESK DATASET — SAMPLE ONLY — VERSION 1.0 — 2026-11-01
+
+
+FlowDesk Troubleshooting — Fictional Sample Data
+
+Problem: Password reset email missing.
+Steps: Check spam; confirm the account email; wait 60 seconds before requesting a new link. Reset links expire after 30 minutes. Contact support@flowdesk.example if repeated attempts fail.
+
+Problem: Cannot invite a new member.
+Steps: Confirm you are Owner or Admin. Check that the plan member limit is not reached. Ensure the invited email is valid. Invitations expire after 7 days; resend if expired.
+
+Problem: Slack notifications are not arriving.
+Steps: Confirm the workspace is Pro or Business. Ask Owner/Admin to check Settings > Integrations > Slack, reconnect if authorization expired, and verify the selected Slack channel permissions.
+
+Problem: Projects are read-only after downgrade.
+Explanation: The workspace exceeds Free plan limits. Reduce usage to 2 active projects and 3 members, or restore a paid plan. Excess projects remain viewable.
+
+Problem: API returns HTTP 429.
+Explanation: Workspace API rate limit exceeded. Honor Retry-After and reduce request frequency. Pro limit is 60/min; Business is 300/min.
+
+Problem: Cannot export audit logs.
+Explanation: Audit-log export is Business-only. Pro supports task CSV export, not audit-log export.
+
+Problem: Payment failed.
+Steps: Owner should verify payment method under Settings > Billing. FlowDesk retries on days 3 and 7. After 10 days unpaid, paid-only features become read-only.
+
+Problem: Google Drive linked file inaccessible.
+Explanation: FlowDesk only links to files. Check the original Google Drive sharing permissions; FlowDesk does not override them.

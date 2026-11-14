@@ -1,0 +1,79 @@
+FICTIONAL FLOWDESK DATASET — SAMPLE ONLY — VERSION 1.0 — 2026-11-01
+
+
+FlowDesk Frequently Asked Questions — Fictional Sample Data (version 1.0, 2026-11-01)
+
+Q: Is there a free plan?
+A: Yes. Free costs $0 and includes 3 members, 2 active projects, and 1 GB storage.
+
+Q: How much is Pro monthly?
+A: $12 per member per month on monthly billing.
+
+Q: Is Pro cheaper annually?
+A: Yes. Annual billing is $10 per member per month, charged as $120 per member per year.
+
+Q: How long is the Pro trial?
+A: 14 days, with no credit card required.
+
+Q: What happens after the trial?
+A: The workspace returns to Free limits unless a paid plan is selected.
+
+Q: Can I cancel any time?
+A: Yes. Only the Owner can cancel under Settings > Billing > Manage Plan; cancellation stops future renewals.
+
+Q: Do I get a refund if I cancel?
+A: Not automatically. See the refund policy; first-time annual purchases may qualify within 14 calendar days.
+
+Q: Can I invite guests?
+A: Yes. Guests have view/comment access to shared projects and count toward member limits after accepting.
+
+Q: How long do invitations last?
+A: 7 days.
+
+Q: Who can change billing?
+A: Only the Owner.
+
+Q: Does Free support Slack?
+A: No. Slack is available on Pro and Business.
+
+Q: Can I export tasks to CSV?
+A: Yes, on Pro and Business.
+
+Q: Is audit-log export available on Pro?
+A: No. It is Business only.
+
+Q: Does FlowDesk support SSO?
+A: SAML SSO is available on Business.
+
+Q: Can I use an API key on Free?
+A: No. API access is Pro and Business only.
+
+Q: What is the Pro API rate limit?
+A: 60 requests per minute per workspace.
+
+Q: Can I use FlowDesk offline?
+A: No offline mode is available in this release.
+
+Q: Does FlowDesk have a desktop app?
+A: No native desktop app is available in this release.
+
+Q: How do I reset my password?
+A: Use Forgot Password on the sign-in page; the reset link expires after 30 minutes.
+
+Q: What happens when a payment fails?
+A: Renewal is retried on days 3 and 7; after 10 days unpaid, paid-only features become read-only.
+
+Q: Can I recover a deleted workspace?
+A: Only during the 7-day recovery window after a deletion request.
+
+Q: Is there phone support?
+A: No. Support is via email and help articles.
+
+Q: Can FlowDesk send SMS reminders?
+A: No. Automation rules do not support SMS.
+
+Q: Can I integrate WhatsApp?
+A: No. WhatsApp messaging is not supported.
+
+Q: Are there certified HIPAA guarantees?
+A: No such certification or guarantee is documented.
