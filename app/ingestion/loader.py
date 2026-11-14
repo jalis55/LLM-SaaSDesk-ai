@@ -9,6 +9,18 @@ from langchain_community.document_loaders import (
 from langchain_core.documents import Document
 
 
+def clean_metadata(documents: list[Document]) -> list[Document]:
+    """Remove unsupported None values from document metadata."""
+
+    for doc in documents:
+        doc.metadata = {
+            key: value
+            for key, value in doc.metadata.items()
+            if value is not None
+        }
+
+    return documents
+
 def standardize_metadata(documents: list[Document]) -> list[Document]:
     """Add consistent metadata to loaded documents."""
 

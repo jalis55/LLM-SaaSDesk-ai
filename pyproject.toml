@@ -16,6 +16,7 @@ dependencies = [
   "sentence-transformers>=3.0",
   "chromadb>=0.5",
   "pypdf>=5.0",
+  "numpy>=2.4.6",
 ]
 
 [dependency-groups]

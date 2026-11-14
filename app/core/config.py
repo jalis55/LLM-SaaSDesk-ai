@@ -8,4 +8,4 @@ DOCS_DIR = ROOT_DIR / "data" / "documents"
 CHROMA_DIR = ROOT_DIR / "storage" / "chroma"
 AI_MODEL = os.getenv("AI_MODEL", "openai/gpt-oss-120b")
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
-CHROMA_COLLECTION = os.getenv("CHROMA_COLLECTION", "flowdesk_knowledge")
+CHROMA_COLLECTION = os.getenv("CHROMA_COLLECTION", "saasdesk_knowledge")
